@@ -24,4 +24,7 @@ tivadar.score = 20
 introduce(tivadar)
 learn(tivadar, 12)
 introduce(tivadar)
+
+introduce(leila)
+learn(leila, -2)
 introduce(leila)

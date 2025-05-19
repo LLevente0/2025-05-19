@@ -12,19 +12,8 @@ def learn(self, points):
     self.score += points
 
 
-
-tivadar = Student("El Tivadar", 16, "male")
-leila = Student("Leila", 17, "female")
-
 tivadar.name = "El Tivadar"
 tivadar.age = 16
 tivadar.sex = "male"
 tivadar.score = 20
 
-introduce(tivadar)
-learn(tivadar, 12)
-introduce(tivadar)
-
-introduce(leila)
-learn(leila, -2)
-introduce(leila)
